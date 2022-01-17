@@ -1,9 +1,10 @@
+import './Header.css';
 
 const Header = () => {
 
 return (
     <div>
-        <h1>Prestige Pressure Washing</h1>
+        <h1 className='title'>Prestige Pressure Washing</h1>
     </div>
 )
 };
